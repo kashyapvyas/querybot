@@ -1,0 +1,9 @@
+python-dotenv==1.0.0
+langchain == 0.0.251
+openai
+pinecone-client==2.2.0
+unstructured==0.7.12
+tabulate
+pdf2image
+streamlit
+tiktoken
