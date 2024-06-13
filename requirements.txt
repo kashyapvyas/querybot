@@ -1,8 +1,8 @@
-python-dotenv==1.0.0
-langchain == 0.0.251
+python-dotenv
+langchain
 openai
-pinecone-client==2.2.0
-unstructured==0.7.12
+pinecone-client
+unstructured
 tabulate
 pdf2image
 streamlit
