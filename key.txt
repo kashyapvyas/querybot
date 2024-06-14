@@ -1,0 +1,3 @@
+OPENAI_API_KEY= 'sk-proj-GS6J7t5e5yTzQBGFJleiT3BlbkFJfhI3uOGmlx56lvzU4jZs'
+PINECONE_API_KEY = 'bac392f5-ca56-4425-964b-965b21eea8bd'
+PINECONE_ENV = 'us-east-1'
